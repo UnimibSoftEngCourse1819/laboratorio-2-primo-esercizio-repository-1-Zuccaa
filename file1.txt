@@ -3,6 +3,11 @@
 Initial content of the first document.
 Additional content of the first document.
 
+<<<<<<< HEAD
 ## Second Document
 
 Please see file2.txt for the second document.
+
+## Third Document
+
+Please see file3.txt for the third document.
